@@ -1,0 +1,9 @@
+{
+  "name": "bate-papo",
+  "version": "0.0.1",
+  "description": "Aplicação com sockect.io",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.6"
+  }
+}
